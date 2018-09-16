@@ -10,7 +10,7 @@ func main() {
 		i++
 	}
 	for j := 0; j <= 10; j += 2 {
-		fmt.Print("%d ", j)
+		fmt.Printf("%d ", j)
 
 	}
 	//looping infinito
